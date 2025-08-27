@@ -156,9 +156,9 @@ const Register = () => {
                 value={formData.role}
                 onChange={handleChange}
               >
-                <option value="participant">🎫 Participer à des événements</option>
-                <option value="organizer">🎪 Organiser des événements</option>
-                <option value="both">🌟 Les deux</option>
+                <option value="participant">Participer à des événements</option>
+                <option value="organizer"> Organiser des événements</option>
+                <option value="both">Les deux</option>
               </select>
               {errors.role && (
                 <p className="mt-2 text-sm text-red-600">{errors.role}</p>
