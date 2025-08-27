@@ -1,8 +1,8 @@
-# 🎉 Eventfy Sénégal - Plateforme de Gestion d'Événements
+# 🎉 Eventify - Plateforme de Gestion d'Événements
 
 ## 🎯 Description
 
-Eventfy Sénégal est une plateforme complète de gestion d'événements développée avec Django (backend) et React (frontend), spécialement adaptée au contexte sénégalais. Elle permet aux utilisateurs de créer, organiser et participer à des événements culturels, professionnels et communautaires au Sénégal.
+Eventify est une plateforme complète de gestion d'événements développée avec Django (backend) et React (frontend), spécialement adaptée au contexte sénégalais. Elle permet aux utilisateurs de créer, organiser et participer à des événements culturels, professionnels et communautaires au Sénégal.
 
 ## ✨ Fonctionnalités
 
@@ -72,8 +72,8 @@ Eventfy Sénégal est une plateforme complète de gestion d'événements dévelo
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/dieyepapa/projet-eventfy.git
-cd projet-eventfy
+git clone https://github.com/FatouBinetouSARR/Eventify-FinalProject.git
+cd Eventify-FinalProject
 ```
 
 ### 2. Configuration du Backend
@@ -299,4 +299,4 @@ Pour toute question ou problème :
 
 ---
 
-**Eventfy** - Organisez, découvrez et participez aux meilleurs événements ! 🎉
+**Eventify** - Organisez, découvrez et participez aux meilleurs événements ! 🎉
