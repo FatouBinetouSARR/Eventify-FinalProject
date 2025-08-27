@@ -136,16 +136,8 @@ db.sqlite3-journal
 media/
 staticfiles/
 
-# React
-eventfy-frontend/node_modules/
-eventfy-frontend/.pnp
-eventfy-frontend/.pnp.js
-
-# testing
-eventfy-frontend/coverage/
-
-# production
-eventfy-frontend/build/
+# Frontend complet - exclure du backend
+eventfy-frontend/
 
 # misc
 .DS_Store
